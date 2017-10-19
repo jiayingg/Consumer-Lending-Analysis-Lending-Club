@@ -1,1 +1,1 @@
-# Consumer-Lending-Analysis-Lending-Club
+# Consumer Lending Analysis - Lending Club
